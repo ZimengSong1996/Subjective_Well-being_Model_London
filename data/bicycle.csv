@@ -1,0 +1,626 @@
+Ward,Old ward code,Ward name,Borough name,2001;All aged 16-74 in work,2001;Travel by bicycle,2001;% travel by bicycle,2011;All aged 16-74 in work,2011;Travel by bicycle,2011;% travel by bicycle,Percentage point change
+E09000001,00AA,City of London,City of London,"4,247",73,1.7,"4,747",252,5.3,3.6
+E05000026,00ABFX,Abbey,Barking and Dagenham,"4,124",47,1.1,"5,489",44,0.8,-0.3
+E05000027,00ABFY,Alibon,Barking and Dagenham,"3,633",69,1.9,"4,214",43,1.0,-0.9
+E05000028,00ABFZ,Becontree,Barking and Dagenham,"4,339",82,1.9,"4,674",77,1.6,-0.2
+E05000029,00ABGA,Chadwell Heath,Barking and Dagenham,"3,566",30,0.8,"3,916",46,1.2,0.3
+E05000030,00ABGB,Eastbrook,Barking and Dagenham,"4,563",73,1.6,"4,686",73,1.6,0.0
+E05000031,00ABGC,Eastbury,Barking and Dagenham,"4,176",71,1.7,"4,620",70,1.5,-0.2
+E05000032,00ABGD,Gascoigne,Barking and Dagenham,"3,223",57,1.8,"4,433",60,1.4,-0.4
+E05000033,00ABGE,Goresbrook,Barking and Dagenham,"4,123",103,2.5,"4,596",80,1.7,-0.8
+E05000034,00ABGF,Heath,Barking and Dagenham,"3,428",67,2.0,"4,122",66,1.6,-0.4
+E05000035,00ABGG,Longbridge,Barking and Dagenham,"4,168",40,1.0,"4,979",56,1.1,0.2
+E05000036,00ABGH,Mayesbrook,Barking and Dagenham,"3,640",72,2.0,"4,044",63,1.6,-0.4
+E05000037,00ABGJ,Parsloes,Barking and Dagenham,"3,480",61,1.8,"3,840",47,1.2,-0.5
+E05000038,00ABGK,River,Barking and Dagenham,"4,310",54,1.3,"4,491",61,1.4,0.1
+E05000039,00ABGL,Thames,Barking and Dagenham,"3,323",49,1.5,"4,133",87,2.1,0.6
+E05000040,00ABGM,Valence,Barking and Dagenham,"3,435",45,1.3,"3,949",60,1.5,0.2
+E05000041,00ABGN,Village,Barking and Dagenham,"3,899",64,1.6,"4,322",103,2.4,0.7
+E05000042,00ABGP,Whalebone,Barking and Dagenham,"4,448",43,1.0,"4,709",48,1.0,0.1
+E05000043,00ACFX,Brunswick Park,Barnet,"6,893",45,0.7,"7,871",75,1.0,0.3
+E05000044,00ACFY,Burnt Oak,Barnet,"6,123",72,1.2,"7,828",61,0.8,-0.4
+E05000045,00ACFZ,Childs Hill,Barnet,"7,919",106,1.3,"9,699",247,2.5,1.2
+E05000046,00ACGA,Colindale,Barnet,"5,743",33,0.6,"7,506",77,1.0,0.5
+E05000047,00ACGB,Coppetts,Barnet,"7,216",77,1.1,"8,842",179,2.0,1.0
+E05000048,00ACGC,East Barnet,Barnet,"7,564",66,0.9,"7,846",68,0.9,0.0
+E05000049,00ACGD,East Finchley,Barnet,"7,323",114,1.6,"8,403",263,3.1,1.6
+E05000050,00ACGE,Edgware,Barnet,"6,596",29,0.4,"7,607",52,0.7,0.2
+E05000051,00ACGF,Finchley Church End,Barnet,"6,673",57,0.9,"7,843",106,1.4,0.5
+E05000052,00ACGG,Garden Suburb,Barnet,"6,984",75,1.1,"7,859",196,2.5,1.4
+E05000053,00ACGH,Golders Green,Barnet,"6,530",72,1.1,"7,947",133,1.7,0.6
+E05000054,00ACGJ,Hale,Barnet,"7,151",39,0.5,"8,130",63,0.8,0.2
+E05000055,00ACGK,Hendon,Barnet,"6,916",52,0.8,"8,670",107,1.2,0.5
+E05000056,00ACGL,High Barnet,Barnet,"6,914",64,0.9,"7,729",120,1.6,0.6
+E05000057,00ACGM,Mill Hill,Barnet,"7,277",42,0.6,"8,711",85,1.0,0.4
+E05000058,00ACGN,Oakleigh,Barnet,"7,031",48,0.7,"7,864",76,1.0,0.3
+E05000059,00ACGP,Totteridge,Barnet,"6,729",51,0.8,"7,229",76,1.1,0.3
+E05000060,00ACGQ,Underhill,Barnet,"6,964",63,0.9,"7,152",58,0.8,-0.1
+E05000061,00ACGR,West Finchley,Barnet,"7,413",83,1.1,"8,809",147,1.7,0.5
+E05000062,00ACGS,West Hendon,Barnet,"6,506",46,0.7,"8,259",109,1.3,0.6
+E05000063,00ACGT,Woodhouse,Barnet,"7,440",86,1.2,"8,854",175,2.0,0.8
+E05000064,00ADGA,Barnehurst,Bexley,"5,097",40,0.8,"5,091",49,1.0,0.2
+E05000065,00ADGB,Belvedere,Bexley,"5,057",48,0.9,"5,563",69,1.2,0.3
+E05000066,00ADGC,Blackfen and Lamorbey,Bexley,"5,154",54,1.0,"5,324",75,1.4,0.4
+E05000067,00ADGD,Blendon and Penhill,Bexley,"5,171",48,0.9,"5,491",68,1.2,0.3
+E05000068,00ADGE,Brampton,Bexley,"4,975",54,1.1,"5,140",55,1.1,0.0
+E05000069,00ADGF,Christchurch,Bexley,"5,153",48,0.9,"5,537",52,0.9,0.0
+E05000070,00ADGG,Colyers,Bexley,"4,761",64,1.3,"5,055",57,1.1,-0.2
+E05000071,00ADGH,Crayford,Bexley,"4,849",76,1.6,"5,351",56,1.0,-0.5
+E05000072,00ADGJ,Cray Meadows,Bexley,"4,586",47,1.0,"5,080",78,1.5,0.5
+E05000073,00ADGK,Danson Park,Bexley,"4,992",43,0.9,"5,375",57,1.1,0.2
+E05000074,00ADGL,East Wickham,Bexley,"4,906",36,0.7,"5,173",61,1.2,0.4
+E05000075,00ADGM,Erith,Bexley,"4,652",39,0.8,"5,357",55,1.0,0.2
+E05000076,00ADGN,Falconwood and Welling,Bexley,"5,130",47,0.9,"5,504",58,1.1,0.1
+E05000077,00ADGP,Lesnes Abbey,Bexley,"4,840",37,0.8,"5,148",55,1.1,0.3
+E05000078,00ADGQ,Longlands,Bexley,"4,654",57,1.2,"5,059",67,1.3,0.1
+E05000079,00ADGR,North End,Bexley,"4,451",51,1.1,"4,681",61,1.3,0.2
+E05000080,00ADGS,Northumberland Heath,Bexley,"5,041",52,1.0,"5,141",64,1.2,0.2
+E05000081,00ADGT,St Mary's,Bexley,"4,865",41,0.8,"5,127",64,1.2,0.4
+E05000082,00ADGU,St Michael's,Bexley,"5,171",62,1.2,"5,548",62,1.1,-0.1
+E05000083,00ADGW,Sidcup,Bexley,"5,154",60,1.2,"5,339",65,1.2,0.1
+E05000084,00ADGX,Thamesmead East,Bexley,"4,980",35,0.7,"5,075",67,1.3,0.6
+E05000085,00AEGJ,Alperton,Brent,"5,638",55,1.0,"6,872",115,1.7,0.7
+E05000086,00AEGK,Barnhill,Brent,"5,411",42,0.8,"6,969",37,0.5,-0.2
+E05000087,00AEGL,Brondesbury Park,Brent,"5,645",143,2.5,"6,820",326,4.8,2.2
+E05000088,00AEGM,Dollis Hill,Brent,"5,201",52,1.0,"5,421",80,1.5,0.5
+E05000089,00AEGN,Dudden Hill,Brent,"6,305",106,1.7,"7,100",228,3.2,1.5
+E05000090,00AEGP,Fryent,Brent,"5,305",31,0.6,"6,205",66,1.1,0.5
+E05000091,00AEGQ,Harlesden,Brent,"4,769",125,2.6,"6,867",241,3.5,0.9
+E05000092,00AEGR,Kensal Green,Brent,"5,178",171,3.3,"7,467",406,5.4,2.1
+E05000093,00AEGS,Kenton,Brent,"5,510",22,0.4,"5,884",40,0.7,0.3
+E05000094,00AEGT,Kilburn,Brent,"6,561",197,3.0,"8,696",508,5.8,2.8
+E05000095,00AEGU,Mapesbury,Brent,"6,874",178,2.6,"8,461",300,3.5,1.0
+E05000096,00AEGW,Northwick Park,Brent,"5,668",43,0.8,"6,267",60,1.0,0.2
+E05000097,00AEGX,Preston,Brent,"5,712",42,0.7,"7,151",77,1.1,0.3
+E05000098,00AEGY,Queens Park,Brent,"6,384",266,4.2,"8,654",639,7.4,3.2
+E05000099,00AEGZ,Queensbury,Brent,"5,853",34,0.6,"7,119",39,0.5,0.0
+E05000100,00AEHA,Stonebridge,Brent,"5,438",78,1.4,"5,917",117,2.0,0.5
+E05000101,00AEHB,Sudbury,Brent,"5,569",48,0.9,"7,077",79,1.1,0.3
+E05000102,00AEHC,Tokyngton,Brent,"5,350",52,1.0,"7,311",91,1.2,0.3
+E05000103,00AEHD,Welsh Harp,Brent,"5,426",54,1.0,"6,158",73,1.2,0.2
+E05000104,00AEHE,Wembley Central,Brent,"4,668",52,1.1,"7,100",88,1.2,0.1
+E05000105,00AEHF,Willesden Green,Brent,"6,245",156,2.5,"7,945",249,3.1,0.6
+E05000106,00AFGD,Bickley,Bromley,"6,488",60,0.9,"7,297",98,1.3,0.4
+E05000107,00AFGE,Biggin Hill,Bromley,"5,590",23,0.4,"5,326",28,0.5,0.1
+E05000108,00AFGF,Bromley Common and Keston,Bromley,"6,575",88,1.3,"7,134",104,1.5,0.1
+E05000109,00AFGG,Bromley Town,Bromley,"7,658",79,1.0,"9,059",151,1.7,0.6
+E05000110,00AFGH,Chelsfield and Pratts Bottom,Bromley,"6,767",52,0.8,"7,252",69,1.0,0.2
+E05000111,00AFGJ,Chislehurst,Bromley,"6,662",40,0.6,"7,036",85,1.2,0.6
+E05000112,00AFGK,Clock House,Bromley,"8,358",101,1.2,"8,466",180,2.1,0.9
+E05000113,00AFGL,Copers Cope,Bromley,"7,880",66,0.8,"8,810",152,1.7,0.9
+E05000114,00AFGM,Cray Valley East,Bromley,"6,735",86,1.3,"6,829",77,1.1,-0.1
+E05000115,00AFGN,Cray Valley West,Bromley,"6,638",59,0.9,"7,148",76,1.1,0.2
+E05000116,00AFGP,Crystal Palace,Bromley,"5,548",75,1.4,"6,312",199,3.2,1.8
+E05000117,00AFGQ,Darwin,Bromley,"2,298",13,0.6,"2,443",21,0.9,0.3
+E05000118,00AFGR,Farnborough and Crofton,Bromley,"6,519",46,0.7,"6,691",72,1.1,0.4
+E05000119,00AFGS,Hayes and Coney Hall,Bromley,"7,097",70,1.0,"7,816",123,1.6,0.6
+E05000120,00AFGT,Kelsey and Eden Park,Bromley,"6,876",59,0.9,"7,724",137,1.8,0.9
+E05000121,00AFGU,Mottingham and Chislehurst North,Bromley,"4,204",35,0.8,"4,429",48,1.1,0.3
+E05000122,00AFGW,Orpington,Bromley,"6,708",44,0.7,"6,877",68,1.0,0.3
+E05000123,00AFGX,Penge and Cator,Bromley,"8,023",100,1.2,"8,684",214,2.5,1.2
+E05000124,00AFGY,Petts Wood and Knoll,Bromley,"6,434",47,0.7,"6,540",57,0.9,0.1
+E05000125,00AFGZ,Plaistow and Sundridge,Bromley,"7,169",83,1.2,"7,488",141,1.9,0.7
+E05000126,00AFHA,Shortlands,Bromley,"4,538",41,0.9,"4,810",66,1.4,0.5
+E05000127,00AFHB,West Wickham,Bromley,"6,698",62,0.9,"7,197",88,1.2,0.3
+E05000128,00AGGD,Belsize,Camden,"6,216",203,3.3,"6,978",341,4.9,1.6
+E05000129,00AGGE,Bloomsbury,Camden,"4,163",118,2.8,"4,821",243,5.0,2.2
+E05000130,00AGGF,Camden Town with Primrose Hill,Camden,"5,267",273,5.2,"6,719",576,8.6,3.4
+E05000131,00AGGG,Cantelowes,Camden,"4,778",278,5.8,"5,906",653,11.1,5.2
+E05000132,00AGGH,Fortune Green,Camden,"5,640",131,2.3,"6,797",332,4.9,2.6
+E05000133,00AGGJ,Frognal and Fitzjohns,Camden,"6,005",129,2.1,"6,048",217,3.6,1.4
+E05000134,00AGGK,Gospel Oak,Camden,"4,479",202,4.5,"5,216",454,8.7,4.2
+E05000135,00AGGL,Hampstead Town,Camden,"5,649",138,2.4,"6,144",267,4.3,1.9
+E05000136,00AGGM,Haverstock,Camden,"4,555",222,4.9,"5,537",414,7.5,2.6
+E05000137,00AGGN,Highgate,Camden,"5,019",284,5.7,"5,493",640,11.7,6.0
+E05000138,00AGGP,Holborn and Covent Garden,Camden,"4,826",146,3.0,"6,465",337,5.2,2.2
+E05000139,00AGGQ,Kentish Town,Camden,"5,524",341,6.2,"7,327",792,10.8,4.6
+E05000140,00AGGR,Kilburn,Camden,"4,698",136,2.9,"5,869",257,4.4,1.5
+E05000141,00AGGS,King's Cross,Camden,"4,092",181,4.4,"4,380",307,7.0,2.6
+E05000142,00AGGT,Regent's Park,Camden,"4,683",158,3.4,"5,637",347,6.2,2.8
+E05000143,00AGGU,St Pancras and Somers Town,Camden,"4,247",186,4.4,"5,284",288,5.5,1.1
+E05000144,00AGGW,Swiss Cottage,Camden,"6,121",132,2.2,"6,928",276,4.0,1.8
+E05000145,00AGGX,West Hampstead,Camden,"5,896",111,1.9,"7,417",331,4.5,2.6
+E05000146,00AHGE,Addiscombe,Croydon,"8,325",103,1.2,"9,099",130,1.4,0.2
+E05000147,00AHGF,Ashburton,Croydon,"6,157",65,1.1,"7,055",77,1.1,0.0
+E05000148,00AHGG,Bensham Manor,Croydon,"7,375",103,1.4,"7,482",97,1.3,-0.1
+E05000149,00AHGH,Broad Green,Croydon,"6,648",78,1.2,"8,213",105,1.3,0.1
+E05000150,00AHGJ,Coulsdon East,Croydon,"5,740",42,0.7,"5,744",52,0.9,0.2
+E05000151,00AHGK,Coulsdon West,Croydon,"6,460",57,0.9,"6,809",61,0.9,0.0
+E05000152,00AHGL,Croham,Croydon,"7,870",91,1.2,"8,635",114,1.3,0.2
+E05000153,00AHGM,Fairfield,Croydon,"7,603",72,0.9,"8,754",79,0.9,0.0
+E05000154,00AHGN,Fieldway,Croydon,"3,670",20,0.5,"4,023",14,0.3,-0.2
+E05000155,00AHGP,Heathfield,Croydon,"6,651",36,0.5,"6,631",42,0.6,0.1
+E05000156,00AHGQ,Kenley,Croydon,"6,606",52,0.8,"7,440",89,1.2,0.4
+E05000157,00AHGR,New Addington,Croydon,"3,939",21,0.5,"4,378",13,0.3,-0.2
+E05000158,00AHGS,Norbury,Croydon,"6,297",68,1.1,"7,691",135,1.8,0.7
+E05000159,00AHGT,Purley,Croydon,"6,424",62,1.0,"7,308",79,1.1,0.1
+E05000160,00AHGU,Sanderstead,Croydon,"5,668",37,0.7,"6,149",57,0.9,0.3
+E05000161,00AHGW,Selhurst,Croydon,"6,777",92,1.4,"7,960",111,1.4,0.0
+E05000162,00AHGX,Selsdon and Ballards,Croydon,"5,969",44,0.7,"6,075",41,0.7,-0.1
+E05000163,00AHGY,Shirley,Croydon,"6,299",59,0.9,"6,694",71,1.1,0.1
+E05000164,00AHGZ,South Norwood,Croydon,"7,231",87,1.2,"7,973",161,2.0,0.8
+E05000165,00AHHA,Thornton Heath,Croydon,"6,930",96,1.4,"7,419",99,1.3,-0.1
+E05000166,00AHHB,Upper Norwood,Croydon,"6,632",98,1.5,"7,804",207,2.7,1.2
+E05000167,00AHHC,Waddon,Croydon,"6,510",76,1.2,"8,129",116,1.4,0.3
+E05000168,00AHHD,West Thornton,Croydon,"7,322",84,1.1,"7,554",104,1.4,0.2
+E05000169,00AHHE,Woodside,Croydon,"7,735",93,1.2,"7,968",118,1.5,0.3
+E05000170,00AJGC,Acton Central,Ealing,"6,533",217,3.3,"7,726",450,5.8,2.5
+E05000171,00AJGD,Cleveland,Ealing,"6,594",147,2.2,"6,805",210,3.1,0.9
+E05000172,00AJGE,Dormers Wells,Ealing,"5,157",62,1.2,"5,717",69,1.2,0.0
+E05000173,00AJGF,Ealing Broadway,Ealing,"7,208",144,2.0,"7,943",235,3.0,1.0
+E05000174,00AJGG,Ealing Common,Ealing,"7,154",145,2.0,"7,859",327,4.2,2.1
+E05000175,00AJGH,East Acton,Ealing,"6,585",293,4.4,"9,436",462,4.9,0.4
+E05000176,00AJGJ,Elthorne,Ealing,"6,451",179,2.8,"7,626",303,4.0,1.2
+E05000177,00AJGK,Greenford Broadway,Ealing,"5,908",114,1.9,"7,844",132,1.7,-0.2
+E05000178,00AJGL,Greenford Green,Ealing,"6,187",83,1.3,"7,169",109,1.5,0.2
+E05000179,00AJGM,Hanger Hill,Ealing,"7,191",110,1.5,"7,890",179,2.3,0.7
+E05000180,00AJGN,Hobbayne,Ealing,"6,206",161,2.6,"6,802",220,3.2,0.6
+E05000181,00AJGP,Lady Margaret,Ealing,"5,636",72,1.3,"6,491",67,1.0,-0.2
+E05000182,00AJGQ,Northfield,Ealing,"7,045",225,3.2,"7,618",354,4.6,1.5
+E05000183,00AJGR,North Greenford,Ealing,"6,298",72,1.1,"7,427",88,1.2,0.0
+E05000184,00AJGS,Northolt Mandeville,Ealing,"5,722",82,1.4,"6,875",68,1.0,-0.4
+E05000185,00AJGT,Northolt West End,Ealing,"5,514",87,1.6,"6,188",71,1.1,-0.4
+E05000186,00AJGU,Norwood Green,Ealing,"4,889",82,1.7,"5,647",94,1.7,0.0
+E05000187,00AJGW,Perivale,Ealing,"6,472",98,1.5,"7,713",195,2.5,1.0
+E05000188,00AJGX,South Acton,Ealing,"6,282",203,3.2,"7,089",305,4.3,1.1
+E05000189,00AJGY,Southall Broadway,Ealing,"5,126",86,1.7,"5,513",57,1.0,-0.6
+E05000190,00AJGZ,Southall Green,Ealing,"5,201",69,1.3,"6,129",77,1.3,-0.1
+E05000191,00AJHA,Southfield,Ealing,"7,248",224,3.1,"7,789",486,6.2,3.1
+E05000192,00AJHB,Walpole,Ealing,"7,100",205,2.9,"7,524",386,5.1,2.2
+E05000193,00AKGL,Bowes,Enfield,"5,578",48,0.9,"7,429",154,2.1,1.2
+E05000194,00AKGM,Bush Hill Park,Enfield,"6,463",84,1.3,"6,829",109,1.6,0.3
+E05000195,00AKGN,Chase,Enfield,"5,738",71,1.2,"6,377",118,1.9,0.6
+E05000196,00AKGP,Cockfosters,Enfield,"5,357",35,0.7,"6,195",42,0.7,0.0
+E05000197,00AKGQ,Edmonton Green,Enfield,"5,196",61,1.2,"6,247",75,1.2,0.0
+E05000198,00AKGR,Enfield Highway,Enfield,"5,923",102,1.7,"6,257",105,1.7,0.0
+E05000199,00AKGS,Enfield Lock,Enfield,"5,820",118,2.0,"6,705",111,1.7,-0.4
+E05000200,00AKGT,Grange,Enfield,"5,669",34,0.6,"6,308",76,1.2,0.6
+E05000201,00AKGU,Haselbury,Enfield,"5,935",70,1.2,"6,415",68,1.1,-0.1
+E05000202,00AKGW,Highlands,Enfield,"5,876",41,0.7,"6,384",79,1.2,0.5
+E05000203,00AKGX,Jubilee,Enfield,"5,481",71,1.3,"5,875",61,1.0,-0.3
+E05000204,00AKGY,Lower Edmonton,Enfield,"5,193",62,1.2,"6,188",73,1.2,0.0
+E05000205,00AKGZ,Palmers Green,Enfield,"6,307",75,1.2,"7,385",109,1.5,0.3
+E05000206,00AKHA,Ponders End,Enfield,"5,322",81,1.5,"6,050",84,1.4,-0.1
+E05000207,00AKHB,Southbury,Enfield,"5,764",106,1.8,"6,305",128,2.0,0.2
+E05000208,00AKHC,Southgate,Enfield,"5,774",22,0.4,"7,084",59,0.8,0.5
+E05000209,00AKHD,Southgate Green,Enfield,"5,918",56,0.9,"6,735",103,1.5,0.6
+E05000210,00AKHE,Town,Enfield,"6,944",105,1.5,"7,571",123,1.6,0.1
+E05000211,00AKHF,Turkey Street,Enfield,"5,396",85,1.6,"5,622",92,1.6,0.1
+E05000212,00AKHG,Upper Edmonton,Enfield,"5,525",60,1.1,"6,722",89,1.3,0.2
+E05000213,00AKHH,Winchmore Hill,Enfield,"6,050",64,1.1,"6,939",99,1.4,0.4
+E05000214,00ALGP,Abbey Wood,Greenwich,"5,218",59,1.1,"6,444",64,1.0,-0.1
+E05000215,00ALGQ,Blackheath Westcombe,Greenwich,"6,142",135,2.2,"6,925",335,4.8,2.6
+E05000216,00ALGR,Charlton,Greenwich,"5,450",115,2.1,"6,698",207,3.1,1.0
+E05000217,00ALGS,Coldharbour and New Eltham,Greenwich,"5,475",54,1.0,"6,141",71,1.2,0.2
+E05000218,00ALGT,Eltham North,Greenwich,"5,771",76,1.3,"6,272",138,2.2,0.9
+E05000219,00ALGU,Eltham South,Greenwich,"5,002",43,0.9,"5,701",89,1.6,0.7
+E05000220,00ALGW,Eltham West,Greenwich,"5,113",64,1.3,"4,454",68,1.5,0.3
+E05000221,00ALGX,Glyndon,Greenwich,"5,584",46,0.8,"8,069",104,1.3,0.5
+E05000222,00ALGY,Greenwich West,Greenwich,"5,453",114,2.1,"8,633",361,4.2,2.1
+E05000223,00ALGZ,Kidbrooke with Hornfair,Greenwich,"5,118",71,1.4,"6,675",184,2.8,1.4
+E05000224,00ALHA,Middle Park and Sutcliffe,Greenwich,"5,231",105,2.0,"5,819",162,2.8,0.8
+E05000225,00ALHB,Peninsula,Greenwich,"4,869",113,2.3,"7,915",338,4.3,1.9
+E05000226,00ALHC,Plumstead,Greenwich,"5,841",58,1.0,"7,362",67,0.9,-0.1
+E05000227,00ALHD,Shooters Hill,Greenwich,"5,950",74,1.2,"6,396",142,2.2,1.0
+E05000228,00ALHE,Thamesmead Moorings,Greenwich,"5,169",60,1.2,"8,345",87,1.0,-0.1
+E05000229,00ALHF,Woolwich Common,Greenwich,"5,490",103,1.9,"7,198",181,2.5,0.6
+E05000230,00ALHG,Woolwich Riverside,Greenwich,"4,699",61,1.3,"8,774",140,1.6,0.3
+E05000231,00AMGA,Brownswood,Hackney,"5,227",270,5.2,"6,401",694,10.8,5.7
+E05000232,00AMGB,Cazenove,Hackney,"3,804",204,5.4,"5,822",722,12.4,7.0
+E05000233,00AMGC,Chatham,Hackney,"4,122",222,5.4,"5,996",888,14.8,9.4
+E05000234,00AMGD,Clissold,Hackney,"4,927",421,8.5,"6,765","1,281",18.9,10.4
+E05000235,00AMGE,Dalston,Hackney,"4,394",326,7.4,"8,119","1,487",18.3,10.9
+E05000236,00AMGF,De Beauvoir,Hackney,"4,111",241,5.9,"7,556","1,068",14.1,8.3
+E05000237,00AMGG,Hackney Central,Hackney,"4,107",261,6.4,"6,317","1,068",16.9,10.6
+E05000238,00AMGH,Hackney Downs,Hackney,"4,251",325,7.6,"6,282","1,111",17.7,10.0
+E05000239,00AMGJ,Haggerston,Hackney,"3,907",169,4.3,"7,410",880,11.9,7.6
+E05000240,00AMGK,Hoxton,Hackney,"4,247",216,5.1,"7,496",782,10.4,5.3
+E05000241,00AMGL,King's Park,Hackney,"3,958",182,4.6,"4,242",569,13.4,8.8
+E05000242,00AMGM,Leabridge,Hackney,"3,971",301,7.6,"6,699","1,064",15.9,8.3
+E05000243,00AMGN,Lordship,Hackney,"4,229",294,7.0,"5,222",710,13.6,6.6
+E05000244,00AMGP,New River,Hackney,"3,689",160,4.3,"4,725",314,6.6,2.3
+E05000245,00AMGQ,Queensbridge,Hackney,"3,807",295,7.7,"6,961","1,329",19.1,11.3
+E05000246,00AMGR,Springfield,Hackney,"3,176",102,3.2,"4,093",284,6.9,3.7
+E05000247,00AMGS,Stoke Newington Central,Hackney,"4,578",402,8.8,"7,107","1,334",18.8,10.0
+E05000248,00AMGT,Victoria,Hackney,"4,763",314,6.6,"6,334",998,15.8,9.2
+E05000249,00AMGU,Wick,Hackney,"3,964",224,5.7,"5,009",729,14.6,8.9
+E05000250,00ANGA,Addison,Hammersmith and Fulham,"5,959",301,5.1,"6,997",524,7.5,2.4
+E05000251,00ANGB,Askew,Hammersmith and Fulham,"6,033",376,6.2,"7,769",689,8.9,2.6
+E05000252,00ANGC,Avonmore and Brook Green,Hammersmith and Fulham,"5,868",250,4.3,"6,776",424,6.3,2.0
+E05000253,00ANGD,College Park and Old Oak,Hammersmith and Fulham,"3,030",107,3.5,"4,144",194,4.7,1.2
+E05000254,00ANGE,Fulham Broadway,Hammersmith and Fulham,"5,116",228,4.5,"6,174",483,7.8,3.4
+E05000255,00ANGF,Fulham Reach,Hammersmith and Fulham,"5,369",248,4.6,"6,454",515,8.0,3.4
+E05000256,00ANGG,Hammersmith Broadway,Hammersmith and Fulham,"5,558",269,4.8,"6,287",461,7.3,2.5
+E05000257,00ANGH,Munster,Hammersmith and Fulham,"5,666",278,4.9,"6,582",574,8.7,3.8
+E05000258,00ANGJ,North End,Hammersmith and Fulham,"6,112",246,4.0,"6,901",429,6.2,2.2
+E05000259,00ANGK,Palace Riverside,Hammersmith and Fulham,"3,659",189,5.2,"3,872",380,9.8,4.6
+E05000260,00ANGL,Parsons Green and Walham,Hammersmith and Fulham,"5,169",222,4.3,"5,907",384,6.5,2.2
+E05000261,00ANGM,Ravenscourt Park,Hammersmith and Fulham,"5,271",255,4.8,"5,721",478,8.4,3.5
+E05000262,00ANGN,Sands End,Hammersmith and Fulham,"4,826",266,5.5,"6,682",512,7.7,2.2
+E05000263,00ANGP,Shepherd's Bush Green,Hammersmith and Fulham,"5,193",259,5.0,"6,900",544,7.9,2.9
+E05000264,00ANGQ,Town,Hammersmith and Fulham,"5,463",217,4.0,"6,643",461,6.9,3.0
+E05000265,00ANGR,Wormholt and White City,Hammersmith and Fulham,"4,711",241,5.1,"5,809",368,6.3,1.2
+E05000266,00APGA,Alexandra,Haringey,"5,464",110,2.0,"6,393",293,4.6,2.6
+E05000267,00APGB,Bounds Green,Haringey,"4,788",67,1.4,"6,940",182,2.6,1.2
+E05000268,00APGC,Bruce Grove,Haringey,"4,759",103,2.2,"6,283",281,4.5,2.3
+E05000269,00APGD,Crouch End,Haringey,"6,437",234,3.6,"7,748",588,7.6,4.0
+E05000270,00APGE,Fortis Green,Haringey,"5,855",141,2.4,"6,623",335,5.1,2.6
+E05000271,00APGF,Harringay,Haringey,"5,280",187,3.5,"7,490",506,6.8,3.2
+E05000272,00APGG,Highgate,Haringey,"5,846",144,2.5,"6,948",412,5.9,3.5
+E05000273,00APGH,Hornsey,Haringey,"4,886",176,3.6,"6,864",477,6.9,3.3
+E05000274,00APGJ,Muswell Hill,Haringey,"5,350",150,2.8,"6,163",405,6.6,3.8
+E05000275,00APGK,Noel Park,Haringey,"4,649",75,1.6,"6,478",205,3.2,1.6
+E05000276,00APGL,Northumberland Park,Haringey,"4,025",53,1.3,"4,999",109,2.2,0.9
+E05000277,00APGM,St Ann's,Haringey,"5,126",140,2.7,"7,126",429,6.0,3.3
+E05000278,00APGN,Seven Sisters,Haringey,"4,876",125,2.6,"6,788",357,5.3,2.7
+E05000279,00APGP,Stroud Green,Haringey,"5,785",292,5.0,"7,083",641,9.0,4.0
+E05000280,00APGQ,Tottenham Green,Haringey,"4,525",103,2.3,"6,483",268,4.1,1.9
+E05000281,00APGR,Tottenham Hale,Haringey,"4,467",82,1.8,"5,908",138,2.3,0.5
+E05000282,00APGS,West Green,Haringey,"4,799",79,1.6,"6,084",255,4.2,2.5
+E05000283,00APGT,White Hart Lane,Haringey,"3,892",53,1.4,"4,798",104,2.2,0.8
+E05000284,00APGU,Woodside,Haringey,"4,897",56,1.1,"7,097",157,2.2,1.1
+E05000285,00AQFY,Belmont,Harrow,"4,670",28,0.6,"5,552",29,0.5,-0.1
+E05000286,00AQFZ,Canons,Harrow,"4,497",18,0.4,"5,888",31,0.5,0.1
+E05000287,00AQGA,Edgware,Harrow,"4,500",24,0.5,"5,567",22,0.4,-0.1
+E05000288,00AQGB,Greenhill,Harrow,"4,664",33,0.7,"6,566",58,0.9,0.2
+E05000289,00AQGC,Harrow on the Hill,Harrow,"5,193",41,0.8,"5,861",61,1.0,0.3
+E05000290,00AQGD,Harrow Weald,Harrow,"4,627",32,0.7,"5,196",29,0.6,-0.1
+E05000291,00AQGE,Hatch End,Harrow,"4,671",26,0.6,"5,070",31,0.6,0.1
+E05000292,00AQGF,Headstone North,Harrow,"4,742",55,1.2,"5,042",52,1.0,-0.1
+E05000293,00AQGG,Headstone South,Harrow,"4,831",62,1.3,"5,549",78,1.4,0.1
+E05000294,00AQGH,Kenton East,Harrow,"4,407",29,0.7,"5,366",13,0.2,-0.4
+E05000295,00AQGJ,Kenton West,Harrow,"4,952",49,1.0,"5,639",29,0.5,-0.5
+E05000296,00AQGK,Marlborough,Harrow,"4,597",51,1.1,"5,864",82,1.4,0.3
+E05000297,00AQGL,Pinner,Harrow,"4,429",28,0.6,"4,691",41,0.9,0.2
+E05000298,00AQGM,Pinner South,Harrow,"4,614",25,0.5,"5,057",46,0.9,0.4
+E05000299,00AQGN,Queensbury,Harrow,"4,622",35,0.8,"5,606",25,0.4,-0.3
+E05000300,00AQGP,Rayners Lane,Harrow,"4,952",47,0.9,"5,338",37,0.7,-0.3
+E05000301,00AQGQ,Roxbourne,Harrow,"4,714",69,1.5,"5,571",38,0.7,-0.8
+E05000302,00AQGR,Roxeth,Harrow,"4,925",37,0.8,"5,412",47,0.9,0.1
+E05000303,00AQGS,Stanmore Park,Harrow,"4,190",49,1.2,"4,994",43,0.9,-0.3
+E05000304,00AQGT,Wealdstone,Harrow,"4,275",54,1.3,"4,992",50,1.0,-0.3
+E05000305,00AQGU,West Harrow,Harrow,"4,706",49,1.0,"5,079",59,1.2,0.1
+E05000306,00ARGC,Brooklands,Havering,"6,340",111,1.8,"7,248",105,1.4,-0.3
+E05000307,00ARGD,Cranham,Havering,"5,497",32,0.6,"5,784",41,0.7,0.1
+E05000308,00ARGE,Elm Park,Havering,"5,657",36,0.6,"5,890",58,1.0,0.3
+E05000309,00ARGF,Emerson Park,Havering,"5,486",31,0.6,"5,831",34,0.6,0.0
+E05000310,00ARGG,Gooshays,Havering,"5,323",51,1.0,"6,015",48,0.8,-0.2
+E05000311,00ARGH,Hacton,Havering,"5,948",46,0.8,"6,084",49,0.8,0.0
+E05000312,00ARGJ,Harold Wood,Havering,"5,813",49,0.8,"6,133",52,0.8,0.0
+E05000313,00ARGK,Havering Park,Havering,"5,546",37,0.7,"5,819",38,0.7,0.0
+E05000314,00ARGL,Heaton,Havering,"4,888",50,1.0,"5,097",45,0.9,-0.1
+E05000315,00ARGM,Hylands,Havering,"6,181",55,0.9,"6,675",68,1.0,0.1
+E05000316,00ARGN,Mawneys,Havering,"5,702",44,0.8,"6,075",69,1.1,0.4
+E05000317,00ARGP,Pettits,Havering,"6,026",43,0.7,"6,246",54,0.9,0.2
+E05000318,00ARGQ,Rainham and Wennington,Havering,"5,729",57,1.0,"5,910",49,0.8,-0.2
+E05000319,00ARGR,Romford Town,Havering,"6,785",66,1.0,"8,263",85,1.0,0.1
+E05000320,00ARGS,St Andrew's,Havering,"6,010",37,0.6,"6,555",58,0.9,0.3
+E05000321,00ARGT,South Hornchurch,Havering,"5,701",80,1.4,"6,109",75,1.2,-0.2
+E05000322,00ARGU,Squirrel's Heath,Havering,"5,837",41,0.7,"6,924",50,0.7,0.0
+E05000323,00ARGW,Upminster,Havering,"6,059",40,0.7,"6,188",42,0.7,0.0
+E05000324,00ASGG,Barnhill,Hillingdon,"5,203",85,1.6,"5,877",73,1.2,-0.4
+E05000325,00ASGH,Botwell,Hillingdon,"5,666",107,1.9,"6,448",100,1.6,-0.3
+E05000326,00ASGJ,Brunel,Hillingdon,"5,094",120,2.4,"5,995",106,1.8,-0.6
+E05000327,00ASGK,Cavendish,Hillingdon,"5,467",78,1.4,"5,925",70,1.2,-0.2
+E05000328,00ASGL,Charville,Hillingdon,"5,709",116,2.0,"5,918",82,1.4,-0.6
+E05000329,00ASGM,Eastcote and East Ruislip,Hillingdon,"5,408",61,1.1,"6,050",74,1.2,0.1
+E05000330,00ASGN,Harefield,Hillingdon,"3,519",42,1.2,"3,695",52,1.4,0.2
+E05000331,00ASGP,Heathrow Villages,Hillingdon,"5,476",104,1.9,"6,220",88,1.4,-0.5
+E05000332,00ASGQ,Hillingdon East,Hillingdon,"5,766",102,1.8,"6,217",93,1.5,-0.3
+E05000333,00ASGR,Ickenham,Hillingdon,"4,773",76,1.6,"5,074",80,1.6,0.0
+E05000334,00ASGS,Manor,Hillingdon,"5,517",55,1.0,"6,055",69,1.1,0.1
+E05000335,00ASGT,Northwood,Hillingdon,"5,058",45,0.9,"5,134",41,0.8,-0.1
+E05000336,00ASGU,Northwood Hills,Hillingdon,"5,089",48,0.9,"5,677",57,1.0,0.1
+E05000337,00ASGW,Pinkwell,Hillingdon,"5,581",90,1.6,"6,523",69,1.1,-0.6
+E05000338,00ASGX,South Ruislip,Hillingdon,"5,498",106,1.9,"6,586",133,2.0,0.1
+E05000339,00ASGY,Townfield,Hillingdon,"5,090",123,2.4,"6,082",84,1.4,-1.0
+E05000340,00ASGZ,Uxbridge North,Hillingdon,"5,939",117,2.0,"6,077",92,1.5,-0.5
+E05000341,00ASHA,Uxbridge South,Hillingdon,"5,610",106,1.9,"6,231",129,2.1,0.2
+E05000342,00ASHB,West Drayton,Hillingdon,"5,405",135,2.5,"6,647",124,1.9,-0.6
+E05000343,00ASHC,West Ruislip,Hillingdon,"5,164",70,1.4,"5,594",84,1.5,0.1
+E05000344,00ASHD,Yeading,Hillingdon,"5,522",81,1.5,"6,104",100,1.6,0.2
+E05000345,00ASHE,Yiewsley,Hillingdon,"5,492",156,2.8,"6,161",136,2.2,-0.6
+E05000346,00ATFY,Bedfont,Hounslow,"4,828",199,4.1,"6,224",189,3.0,-1.1
+E05000347,00ATFZ,Brentford,Hounslow,"5,158",209,4.1,"7,212",358,5.0,0.9
+E05000348,00ATGA,Chiswick Homefields,Hounslow,"5,702",228,4.0,"6,287",436,6.9,2.9
+E05000349,00ATGB,Chiswick Riverside,Hounslow,"5,766",197,3.4,"6,423",451,7.0,3.6
+E05000350,00ATGC,Cranford,Hounslow,"4,600",98,2.1,"5,627",104,1.8,-0.3
+E05000351,00ATGD,Feltham North,Hounslow,"4,736",169,3.6,"5,619",163,2.9,-0.7
+E05000352,00ATGE,Feltham West,Hounslow,"5,660",220,3.9,"7,768",228,2.9,-1.0
+E05000353,00ATGF,Hanworth,Hounslow,"4,764",213,4.5,"5,409",187,3.5,-1.0
+E05000354,00ATGG,Hanworth Park,Hounslow,"5,153",165,3.2,"5,725",154,2.7,-0.5
+E05000355,00ATGH,Heston Central,Hounslow,"5,069",114,2.2,"5,692",86,1.5,-0.7
+E05000356,00ATGJ,Heston East,Hounslow,"5,039",95,1.9,"5,860",62,1.1,-0.8
+E05000357,00ATGK,Heston West,Hounslow,"4,712",88,1.9,"5,252",61,1.2,-0.7
+E05000358,00ATGL,Hounslow Central,Hounslow,"5,477",121,2.2,"7,914",118,1.5,-0.7
+E05000359,00ATGM,Hounslow Heath,Hounslow,"5,352",114,2.1,"6,984",141,2.0,-0.1
+E05000360,00ATGN,Hounslow South,Hounslow,"5,337",168,3.1,"5,886",208,3.5,0.4
+E05000361,00ATGP,Hounslow West,Hounslow,"4,835",76,1.6,"6,399",96,1.5,-0.1
+E05000362,00ATGQ,Isleworth,Hounslow,"5,307",248,4.7,"5,939",278,4.7,0.0
+E05000363,00ATGR,Osterley and Spring Grove,Hounslow,"5,511",123,2.2,"7,045",197,2.8,0.6
+E05000364,00ATGS,Syon,Hounslow,"4,694",154,3.3,"7,216",316,4.4,1.1
+E05000365,00ATGT,Turnham Green,Hounslow,"5,875",177,3.0,"6,551",327,5.0,2.0
+E05000366,00AUFX,Barnsbury,Islington,"4,915",227,4.6,"6,431",624,9.7,5.1
+E05000367,00AUFY,Bunhill,Islington,"4,373",167,3.8,"6,986",508,7.3,3.5
+E05000368,00AUFZ,Caledonian,Islington,"4,920",205,4.2,"6,604",539,8.2,4.0
+E05000369,00AUGA,Canonbury,Islington,"4,313",222,5.1,"6,207",561,9.0,3.9
+E05000370,00AUGB,Clerkenwell,Islington,"4,446",143,3.2,"5,843",488,8.4,5.1
+E05000371,00AUGC,Finsbury Park,Islington,"5,411",216,4.0,"6,956",571,8.2,4.2
+E05000372,00AUGD,Highbury East,Islington,"5,125",321,6.3,"6,519",840,12.9,6.6
+E05000373,00AUGE,Highbury West,Islington,"5,490",341,6.2,"8,864",901,10.2,4.0
+E05000374,00AUGF,Hillrise,Islington,"5,019",169,3.4,"5,678",454,8.0,4.6
+E05000375,00AUGG,Holloway,Islington,"4,612",214,4.6,"7,424",651,8.8,4.1
+E05000376,00AUGH,Junction,Islington,"4,970",235,4.7,"6,238",586,9.4,4.7
+E05000377,00AUGJ,Mildmay,Islington,"5,249",325,6.2,"6,655",877,13.2,7.0
+E05000378,00AUGK,St George's,Islington,"5,116",286,5.6,"6,453",734,11.4,5.8
+E05000379,00AUGL,St Mary's,Islington,"5,114",195,3.8,"6,623",591,8.9,5.1
+E05000380,00AUGM,St Peter's,Islington,"5,067",226,4.5,"6,410",623,9.7,5.3
+E05000381,00AUGN,Tollington,Islington,"5,694",285,5.0,"6,874",656,9.5,4.5
+E05000382,00AWFY,Abingdon,Kensington and Chelsea,"4,338",119,2.7,"5,042",238,4.7,2.0
+E05000383,00AWFZ,Brompton,Kensington and Chelsea,"4,705",85,1.8,"4,731",139,2.9,1.1
+E05000384,00AWGA,Campden,Kensington and Chelsea,"4,249",94,2.2,"4,457",222,5.0,2.8
+E05000385,00AWGB,Colville,Kensington and Chelsea,"3,838",155,4.0,"4,597",356,7.7,3.7
+E05000386,00AWGC,Courtfield,Kensington and Chelsea,"5,059",96,1.9,"4,686",174,3.7,1.8
+E05000387,00AWGD,Cremorne,Kensington and Chelsea,"3,961",144,3.6,"3,639",160,4.4,0.8
+E05000388,00AWGE,Earl's Court,Kensington and Chelsea,"5,172",113,2.2,"5,103",192,3.8,1.6
+E05000389,00AWGF,Golborne,Kensington and Chelsea,"3,013",124,4.1,"3,851",226,5.9,1.8
+E05000390,00AWGG,Hans Town,Kensington and Chelsea,"4,392",74,1.7,"4,667",146,3.1,1.4
+E05000391,00AWGH,Holland,Kensington and Chelsea,"4,573",108,2.4,"4,816",218,4.5,2.2
+E05000392,00AWGJ,Norland,Kensington and Chelsea,"3,996",165,4.1,"4,198",245,5.8,1.7
+E05000393,00AWGK,Notting Barns,Kensington and Chelsea,"3,577",147,4.1,"4,175",311,7.4,3.3
+E05000394,00AWGL,Pembridge,Kensington and Chelsea,"4,336",124,2.9,"4,437",214,4.8,2.0
+E05000395,00AWGM,Queen's Gate,Kensington and Chelsea,"4,843",103,2.1,"5,154",211,4.1,2.0
+E05000396,00AWGN,Redcliffe,Kensington and Chelsea,"4,714",141,3.0,"5,332",269,5.0,2.1
+E05000397,00AWGP,Royal Hospital,Kensington and Chelsea,"3,519",102,2.9,"3,827",169,4.4,1.5
+E05000398,00AWGQ,St Charles,Kensington and Chelsea,"3,364",141,4.2,"4,235",287,6.8,2.6
+E05000399,00AWGR,Stanley,Kensington and Chelsea,"3,928",99,2.5,"4,440",178,4.0,1.5
+E05000400,00AXFX,Alexandra,Kingston upon Thames,"4,612",150,3.3,"4,602",178,3.9,0.6
+E05000401,00AXFY,Berrylands,Kingston upon Thames,"4,889",170,3.5,"4,929",228,4.6,1.1
+E05000402,00AXFZ,Beverley,Kingston upon Thames,"4,645",128,2.8,"4,951",216,4.4,1.6
+E05000403,00AXGA,Canbury,Kingston upon Thames,"5,207",221,4.2,"6,655",409,6.1,1.9
+E05000404,00AXGB,Chessington North and Hook,Kingston upon Thames,"4,314",116,2.7,"4,451",113,2.5,-0.2
+E05000405,00AXGC,Chessington South,Kingston upon Thames,"4,945",114,2.3,"5,427",123,2.3,0.0
+E05000406,00AXGD,Coombe Hill,Kingston upon Thames,"4,567",100,2.2,"4,669",150,3.2,1.0
+E05000407,00AXGE,Coombe Vale,Kingston upon Thames,"4,464",146,3.3,"4,754",204,4.3,1.0
+E05000408,00AXGF,Grove,Kingston upon Thames,"4,460",158,3.5,"5,783",271,4.7,1.1
+E05000409,00AXGG,Norbiton,Kingston upon Thames,"4,269",136,3.2,"5,072",275,5.4,2.2
+E05000410,00AXGH,Old Malden,Kingston upon Thames,"4,495",109,2.4,"4,686",107,2.3,-0.1
+E05000411,00AXGJ,St James,Kingston upon Thames,"3,987",96,2.4,"4,214",125,3.0,0.6
+E05000412,00AXGK,St Mark's,Kingston upon Thames,"5,606",151,2.7,"5,964",249,4.2,1.5
+E05000413,00AXGL,Surbiton Hill,Kingston upon Thames,"5,438",173,3.2,"5,838",216,3.7,0.5
+E05000414,00AXGM,Tolworth and Hook Rise,Kingston upon Thames,"4,873",160,3.3,"5,135",150,2.9,-0.4
+E05000415,00AXGN,Tudor,Kingston upon Thames,"4,125",195,4.7,"4,827",337,7.0,2.3
+E05000416,00AYFZ,Bishop's,Lambeth,"4,343",137,3.2,"5,226",337,6.4,3.3
+E05000417,00AYGA,Brixton Hill,Lambeth,"6,382",309,4.8,"9,304",939,10.1,5.3
+E05000418,00AYGB,Clapham Common,Lambeth,"6,980",290,4.2,"8,138",717,8.8,4.7
+E05000419,00AYGC,Clapham Town,Lambeth,"7,178",324,4.5,"8,746",752,8.6,4.1
+E05000420,00AYGD,Coldharbour,Lambeth,"5,866",314,5.4,"7,948",636,8.0,2.6
+E05000421,00AYGE,Ferndale,Lambeth,"6,793",297,4.4,"9,491",780,8.2,3.8
+E05000422,00AYGF,Gipsy Hill,Lambeth,"6,356",178,2.8,"6,748",420,6.2,3.4
+E05000423,00AYGG,Herne Hill,Lambeth,"5,905",359,6.1,"8,591","1,075",12.5,6.4
+E05000424,00AYGH,Knight's Hill,Lambeth,"6,277",153,2.4,"7,008",345,4.9,2.5
+E05000425,00AYGJ,Larkhall,Lambeth,"6,635",292,4.4,"9,861",797,8.1,3.7
+E05000426,00AYGK,Oval,Lambeth,"6,188",295,4.8,"8,976",822,9.2,4.4
+E05000427,00AYGL,Prince's,Lambeth,"5,435",260,4.8,"7,633",684,9.0,4.2
+E05000428,00AYGM,St Leonard's,Lambeth,"6,808",244,3.6,"8,420",505,6.0,2.4
+E05000429,00AYGN,Stockwell,Lambeth,"6,007",288,4.8,"7,985",696,8.7,3.9
+E05000430,00AYGP,Streatham Hill,Lambeth,"6,933",273,3.9,"7,913",598,7.6,3.6
+E05000431,00AYGQ,Streatham South,Lambeth,"6,326",139,2.2,"7,047",286,4.1,1.9
+E05000432,00AYGR,Streatham Wells,Lambeth,"6,570",205,3.1,"8,109",450,5.5,2.4
+E05000433,00AYGS,Thornton,Lambeth,"6,306",264,4.2,"6,746",536,7.9,3.8
+E05000434,00AYGT,Thurlow Park,Lambeth,"5,695",208,3.7,"7,218",598,8.3,4.6
+E05000435,00AYGU,Tulse Hill,Lambeth,"6,099",333,5.5,"8,150",779,9.6,4.1
+E05000436,00AYGW,Vassall,Lambeth,"5,580",235,4.2,"7,236",703,9.7,5.5
+E05000437,00AZGD,Bellingham,Lewisham,"5,631",71,1.3,"6,300",121,1.9,0.7
+E05000438,00AZGE,Blackheath,Lewisham,"6,871",118,1.7,"7,556",297,3.9,2.2
+E05000439,00AZGF,Brockley,Lewisham,"6,465",123,1.9,"9,696",535,5.5,3.6
+E05000440,00AZGG,Catford South,Lewisham,"6,806",94,1.4,"7,327",195,2.7,1.3
+E05000441,00AZGH,Crofton Park,Lewisham,"7,077",152,2.1,"8,013",463,5.8,3.6
+E05000442,00AZGJ,Downham,Lewisham,"5,494",73,1.3,"5,920",102,1.7,0.4
+E05000443,00AZGK,Evelyn,Lewisham,"5,422",136,2.5,"7,560",325,4.3,1.8
+E05000444,00AZGL,Forest Hill,Lewisham,"6,804",154,2.3,"7,698",356,4.6,2.4
+E05000445,00AZGM,Grove Park,Lewisham,"6,588",71,1.1,"6,918",154,2.2,1.1
+E05000446,00AZGN,Ladywell,Lewisham,"6,326",161,2.5,"7,576",436,5.8,3.2
+E05000447,00AZGP,Lee Green,Lewisham,"5,998",97,1.6,"7,808",298,3.8,2.2
+E05000448,00AZGQ,Lewisham Central,Lewisham,"6,491",114,1.8,"9,028",310,3.4,1.7
+E05000449,00AZGR,New Cross,Lewisham,"6,484",165,2.5,"7,596",374,4.9,2.4
+E05000450,00AZGS,Perry Vale,Lewisham,"6,933",125,1.8,"8,087",335,4.1,2.3
+E05000451,00AZGT,Rushey Green,Lewisham,"6,272",110,1.8,"6,943",202,2.9,1.2
+E05000452,00AZGU,Sydenham,Lewisham,"6,821",108,1.6,"7,475",209,2.8,1.2
+E05000453,00AZGW,Telegraph Hill,Lewisham,"6,604",181,2.7,"8,645",563,6.5,3.8
+E05000454,00AZGX,Whitefoot,Lewisham,"5,505",59,1.1,"5,911",100,1.7,0.6
+E05000455,00BAFX,Abbey,Merton,"5,616",130,2.3,"6,375",248,3.9,1.6
+E05000456,00BAFY,Cannon Hill,Merton,"4,577",120,2.6,"4,801",160,3.3,0.7
+E05000457,00BAFZ,Colliers Wood,Merton,"5,108",169,3.3,"6,472",284,4.4,1.1
+E05000458,00BAGA,Cricket Green,Merton,"4,204",111,2.6,"5,050",120,2.4,-0.3
+E05000459,00BAGB,Dundonald,Merton,"5,578",125,2.2,"5,791",220,3.8,1.6
+E05000460,00BAGC,Figge's Marsh,Merton,"4,427",112,2.5,"5,144",142,2.8,0.2
+E05000461,00BAGD,Graveney,Merton,"4,690",102,2.2,"5,094",157,3.1,0.9
+E05000462,00BAGE,Hillside,Merton,"5,245",97,1.8,"5,344",150,2.8,1.0
+E05000463,00BAGF,Lavender Fields,Merton,"4,899",129,2.6,"5,461",185,3.4,0.8
+E05000464,00BAGG,Longthornton,Merton,"4,592",90,2.0,"4,825",101,2.1,0.1
+E05000465,00BAGH,Lower Morden,Merton,"4,370",82,1.9,"4,837",114,2.4,0.5
+E05000466,00BAGJ,Merton Park,Merton,"4,676",113,2.4,"4,854",210,4.3,1.9
+E05000467,00BAGK,Pollards Hill,Merton,"4,398",100,2.3,"4,686",118,2.5,0.2
+E05000468,00BAGL,Ravensbury,Merton,"4,040",91,2.3,"4,606",106,2.3,0.0
+E05000469,00BAGM,Raynes Park,Merton,"4,760",92,1.9,"5,233",192,3.7,1.7
+E05000470,00BAGN,St Helier,Merton,"3,942",110,2.8,"4,801",127,2.6,-0.1
+E05000471,00BAGP,Trinity,Merton,"5,301",113,2.1,"6,026",244,4.0,1.9
+E05000472,00BAGQ,Village,Merton,"4,052",55,1.4,"3,973",161,4.1,2.7
+E05000473,00BAGR,West Barnes,Merton,"5,016",138,2.8,"5,119",179,3.5,0.7
+E05000474,00BAGS,Wimbledon Park,Merton,"5,404",159,2.9,"6,330",306,4.8,1.9
+E05000475,00BBGB,Beckton,Newham,"5,048",62,1.2,"6,728",127,1.9,0.7
+E05000476,00BBGC,Boleyn,Newham,"4,388",48,1.1,"6,358",84,1.3,0.2
+E05000477,00BBGD,Canning Town North,Newham,"3,990",60,1.5,"6,186",86,1.4,-0.1
+E05000478,00BBGE,Canning Town South,Newham,"3,736",56,1.5,"7,475",153,2.0,0.5
+E05000479,00BBGF,Custom House,Newham,"4,584",51,1.1,"5,909",103,1.7,0.6
+E05000480,00BBGG,East Ham Central,Newham,"4,214",29,0.7,"6,578",82,1.2,0.6
+E05000481,00BBGH,East Ham North,Newham,"3,571",25,0.7,"5,536",47,0.8,0.1
+E05000482,00BBGJ,East Ham South,Newham,"4,634",62,1.3,"6,020",92,1.5,0.2
+E05000483,00BBGK,Forest Gate North,Newham,"4,997",123,2.5,"7,646",218,2.9,0.4
+E05000484,00BBGL,Forest Gate South,Newham,"5,043",79,1.6,"8,065",178,2.2,0.6
+E05000485,00BBGM,Green Street East,Newham,"4,146",34,0.8,"6,389",66,1.0,0.2
+E05000486,00BBGN,Green Street West,Newham,"3,928",50,1.3,"5,939",58,1.0,-0.3
+E05000487,00BBGP,Little Ilford,Newham,"4,076",30,0.7,"5,825",64,1.1,0.4
+E05000488,00BBGQ,Manor Park,Newham,"4,008",73,1.8,"6,013",94,1.6,-0.3
+E05000489,00BBGR,Plaistow North,Newham,"4,548",62,1.4,"6,318",112,1.8,0.4
+E05000490,00BBGS,Plaistow South,Newham,"4,685",66,1.4,"6,998",129,1.8,0.4
+E05000491,00BBGT,Royal Docks,Newham,"2,599",16,0.6,"5,784",107,1.8,1.2
+E05000492,00BBGU,Stratford and New Town,Newham,"4,741",104,2.2,"9,746",237,2.4,0.2
+E05000493,00BBGW,Wall End,Newham,"4,615",37,0.8,"5,851",55,0.9,0.1
+E05000494,00BBGX,West Ham,Newham,"4,813",75,1.6,"7,090",147,2.1,0.5
+E05000495,00BCFY,Aldborough,Redbridge,"5,234",39,0.7,"6,514",42,0.6,-0.1
+E05000496,00BCFZ,Barkingside,Redbridge,"5,015",34,0.7,"5,689",42,0.7,0.1
+E05000497,00BCGA,Bridge,Redbridge,"5,472",45,0.8,"5,835",63,1.1,0.3
+E05000498,00BCGB,Chadwell,Redbridge,"5,187",64,1.2,"6,449",58,0.9,-0.3
+E05000499,00BCGC,Church End,Redbridge,"4,993",58,1.2,"6,519",126,1.9,0.8
+E05000500,00BCGD,Clayhall,Redbridge,"5,417",20,0.4,"5,948",37,0.6,0.3
+E05000501,00BCGE,Clementswood,Redbridge,"4,020",48,1.2,"5,536",31,0.6,-0.6
+E05000502,00BCGF,Cranbrook,Redbridge,"5,218",39,0.7,"5,499",47,0.9,0.1
+E05000503,00BCGG,Fairlop,Redbridge,"4,782",31,0.6,"6,092",39,0.6,0.0
+E05000504,00BCGH,Fullwell,Redbridge,"4,854",43,0.9,"5,595",45,0.8,-0.1
+E05000505,00BCGJ,Goodmayes,Redbridge,"4,998",52,1.0,"5,499",45,0.8,-0.2
+E05000506,00BCGK,Hainault,Redbridge,"4,552",47,1.0,"5,457",53,1.0,-0.1
+E05000507,00BCGL,Loxford,Redbridge,"4,808",33,0.7,"5,693",42,0.7,0.1
+E05000508,00BCGM,Mayfield,Redbridge,"4,890",54,1.1,"5,700",50,0.9,-0.2
+E05000509,00BCGN,Monkhams,Redbridge,"4,722",22,0.5,"5,212",78,1.5,1.0
+E05000510,00BCGP,Newbury,Redbridge,"5,579",40,0.7,"7,064",59,0.8,0.1
+E05000511,00BCGQ,Roding,Redbridge,"5,252",61,1.2,"6,086",97,1.6,0.4
+E05000512,00BCGR,Seven Kings,Redbridge,"5,110",48,0.9,"6,167",52,0.8,-0.1
+E05000513,00BCGS,Snaresbrook,Redbridge,"5,398",61,1.1,"6,408",151,2.4,1.2
+E05000514,00BCGT,Valentines,Redbridge,"4,946",49,1.0,"5,862",64,1.1,0.1
+E05000515,00BCGU,Wanstead,Redbridge,"5,684",84,1.5,"5,868",190,3.2,1.8
+E05000516,00BDFW,Barnes,Richmond upon Thames,"4,678",189,4.0,"5,103",387,7.6,3.5
+E05000517,00BDFX,East Sheen,Richmond upon Thames,"4,835",195,4.0,"5,343",416,7.8,3.8
+E05000518,00BDFY,Fulwell and Hampton Hill,Richmond upon Thames,"5,021",230,4.6,"5,487",383,7.0,2.4
+E05000519,00BDFZ,Ham,Richmond upon Thames,"4,482",216,4.8,"5,053",398,7.9,3.1
+E05000520,00BDGA,Hampton,Richmond upon Thames,"4,685",229,4.9,"5,187",311,6.0,1.1
+E05000521,00BDGB,Hampton North,Richmond upon Thames,"4,477",203,4.5,"4,650",256,5.5,1.0
+E05000522,00BDGC,Hampton Wick,Richmond upon Thames,"4,524",194,4.3,"5,089",337,6.6,2.3
+E05000523,00BDGD,Heathfield,Richmond upon Thames,"4,501",181,4.0,"4,888",177,3.6,-0.4
+E05000524,00BDGE,Kew,Richmond upon Thames,"4,965",159,3.2,"6,068",344,5.7,2.5
+E05000525,00BDGF,Mortlake and Barnes Common,Richmond upon Thames,"5,344",267,5.0,"6,032",518,8.6,3.6
+E05000526,00BDGG,North Richmond,Richmond upon Thames,"5,142",196,3.8,"5,900",364,6.2,2.4
+E05000527,00BDGH,St Margarets and North Twickenham,Richmond upon Thames,"5,538",182,3.3,"6,356",385,6.1,2.8
+E05000528,00BDGJ,South Richmond,Richmond upon Thames,"5,569",125,2.2,"5,938",225,3.8,1.5
+E05000529,00BDGK,South Twickenham,Richmond upon Thames,"4,931",176,3.6,"5,610",330,5.9,2.3
+E05000530,00BDGL,Teddington,Richmond upon Thames,"5,270",158,3.0,"5,706",315,5.5,2.5
+E05000531,00BDGM,Twickenham Riverside,Richmond upon Thames,"5,597",163,2.9,"6,122",295,4.8,1.9
+E05000532,00BDGN,West Twickenham,Richmond upon Thames,"5,209",248,4.8,"5,719",356,6.2,1.5
+E05000533,00BDGP,Whitton,Richmond upon Thames,"4,622",179,3.9,"4,953",265,5.4,1.5
+E05000534,00BEGC,Brunswick Park,Southwark,"4,742",245,5.2,"6,541",674,10.3,5.1
+E05000535,00BEGD,Camberwell Green,Southwark,"5,086",166,3.3,"7,023",526,7.5,4.2
+E05000536,00BEGE,Cathedrals,Southwark,"5,552",203,3.7,"7,843",587,7.5,3.8
+E05000537,00BEGF,Chaucer,Southwark,"5,464",164,3.0,"8,159",568,7.0,4.0
+E05000538,00BEGG,College,Southwark,"4,812",140,2.9,"5,885",318,5.4,2.5
+E05000539,00BEGH,East Dulwich,Southwark,"5,794",301,5.2,"7,280",648,8.9,3.7
+E05000540,00BEGJ,East Walworth,Southwark,"4,869",173,3.6,"5,377",378,7.0,3.5
+E05000541,00BEGK,Faraday,Southwark,"4,665",141,3.0,"5,655",392,6.9,3.9
+E05000542,00BEGL,Grange,Southwark,"5,352",173,3.2,"8,520",605,7.1,3.9
+E05000543,00BEGM,Livesey,Southwark,"4,343",121,2.8,"5,841",284,4.9,2.1
+E05000544,00BEGN,Newington,Southwark,"5,259",224,4.3,"7,057",612,8.7,4.4
+E05000545,00BEGP,Nunhead,Southwark,"4,210",145,3.4,"6,409",472,7.4,3.9
+E05000546,00BEGQ,Peckham,Southwark,"4,015",100,2.5,"6,321",313,5.0,2.5
+E05000547,00BEGR,Peckham Rye,Southwark,"5,588",270,4.8,"7,378",676,9.2,4.3
+E05000548,00BEGS,Riverside,Southwark,"5,497",158,2.9,"8,848",483,5.5,2.6
+E05000549,00BEGT,Rotherhithe,Southwark,"5,366",166,3.1,"7,250",395,5.4,2.4
+E05000550,00BEGU,South Bermondsey,Southwark,"5,060",176,3.5,"6,513",412,6.3,2.8
+E05000551,00BEGW,South Camberwell,Southwark,"5,196",197,3.8,"6,646",584,8.8,5.0
+E05000552,00BEGX,Surrey Docks,Southwark,"6,875",219,3.2,"8,647",546,6.3,3.1
+E05000553,00BEGY,The Lane,Southwark,"5,051",246,4.9,"7,738",767,9.9,5.0
+E05000554,00BEGZ,Village,Southwark,"5,107",245,4.8,"6,457",658,10.2,5.4
+E05000555,00BFGC,Beddington North,Sutton,"5,225",129,2.5,"5,389",117,2.2,-0.3
+E05000556,00BFGD,Beddington South,Sutton,"4,419",57,1.3,"4,896",76,1.6,0.3
+E05000557,00BFGE,Belmont,Sutton,"5,157",87,1.7,"5,234",86,1.6,0.0
+E05000558,00BFGF,Carshalton Central,Sutton,"5,046",109,2.2,"5,457",158,2.9,0.7
+E05000559,00BFGG,Carshalton South and Clockhouse,Sutton,"4,767",111,2.3,"4,918",84,1.7,-0.6
+E05000560,00BFGH,Cheam,Sutton,"4,638",74,1.6,"4,977",88,1.8,0.2
+E05000561,00BFGJ,Nonsuch,Sutton,"5,093",98,1.9,"5,582",130,2.3,0.4
+E05000562,00BFGK,St Helier,Sutton,"4,532",100,2.2,"5,536",102,1.8,-0.4
+E05000563,00BFGL,Stonecot,Sutton,"5,348",98,1.8,"5,595",108,1.9,0.1
+E05000564,00BFGM,Sutton Central,Sutton,"5,365",202,3.8,"5,904",129,2.2,-1.6
+E05000565,00BFGN,Sutton North,Sutton,"4,815",87,1.8,"5,099",105,2.1,0.3
+E05000566,00BFGP,Sutton South,Sutton,"4,811",99,2.1,"5,188",90,1.7,-0.3
+E05000567,00BFGQ,Sutton West,Sutton,"5,680",116,2.0,"5,841",127,2.2,0.1
+E05000568,00BFGR,The Wrythe,Sutton,"5,188",133,2.6,"5,417",122,2.3,-0.3
+E05000569,00BFGS,Wallington North,Sutton,"5,227",98,1.9,"5,663",116,2.0,0.2
+E05000570,00BFGT,Wallington South,Sutton,"4,734",99,2.1,"5,046",92,1.8,-0.3
+E05000571,00BFGU,Wandle Valley,Sutton,"4,926",122,2.5,"5,700",169,3.0,0.5
+E05000572,00BFGW,Worcester Park,Sutton,"5,257",101,1.9,"6,216",167,2.7,0.8
+E05000573,00BGFW,Bethnal Green North,Tower Hamlets,"4,274",179,4.2,"6,629",839,12.7,8.5
+E05000574,00BGFX,Bethnal Green South,Tower Hamlets,"4,513",187,4.1,"5,978",467,7.8,3.7
+E05000575,00BGFY,Blackwall and Cubitt Town,Tower Hamlets,"5,950",98,1.6,"10,762",327,3.0,1.4
+E05000576,00BGFZ,Bow East,Tower Hamlets,"3,765",117,3.1,"7,724",721,9.3,6.2
+E05000577,00BGGA,Bow West,Tower Hamlets,"4,727",207,4.4,"6,364",698,11.0,6.6
+E05000578,00BGGB,Bromley-by-Bow,Tower Hamlets,"3,237",86,2.7,"5,433",263,4.8,2.2
+E05000579,00BGGC,East India and Lansbury,Tower Hamlets,"3,424",76,2.2,"5,182",164,3.2,0.9
+E05000580,00BGGD,Limehouse,Tower Hamlets,"4,701",88,1.9,"7,378",335,4.5,2.7
+E05000581,00BGGE,Mile End and Globe Town,Tower Hamlets,"3,963",183,4.6,"6,333",561,8.9,4.2
+E05000582,00BGGF,Mile End East,Tower Hamlets,"3,692",100,2.7,"5,326",313,5.9,3.2
+E05000583,00BGGG,Millwall,Tower Hamlets,"7,027",118,1.7,"13,838",391,2.8,1.1
+E05000584,00BGGH,St Dunstan's and Stepney Green,Tower Hamlets,"3,640",131,3.6,"6,180",418,6.8,3.2
+E05000585,00BGGJ,St Katherine's and Wapping,Tower Hamlets,"5,945",151,2.5,"7,725",533,6.9,4.4
+E05000586,00BGGK,Shadwell,Tower Hamlets,"4,044",95,2.3,"6,601",354,5.4,3.0
+E05000587,00BGGL,Spitalfields and Banglatown,Tower Hamlets,"2,863",94,3.3,"5,098",380,7.5,4.2
+E05000588,00BGGM,Weavers,Tower Hamlets,"3,950",189,4.8,"6,754",814,12.1,7.3
+E05000589,00BGGN,Whitechapel,Tower Hamlets,"4,203",115,2.7,"7,568",534,7.1,4.3
+E05000590,00BHFX,Cann Hall,Waltham Forest,"4,741",83,1.8,"6,348",192,3.0,1.3
+E05000591,00BHFY,Cathall,Waltham Forest,"4,368",89,2.0,"5,791",152,2.6,0.6
+E05000592,00BHFZ,Chapel End,Waltham Forest,"5,243",82,1.6,"6,680",202,3.0,1.5
+E05000593,00BHGA,Chingford Green,Waltham Forest,"4,301",28,0.7,"4,745",54,1.1,0.5
+E05000594,00BHGB,Endlebury,Waltham Forest,"4,839",62,1.3,"5,051",60,1.2,-0.1
+E05000595,00BHGC,Forest,Waltham Forest,"4,745",104,2.2,"5,951",206,3.5,1.3
+E05000596,00BHGD,Grove Green,Waltham Forest,"5,392",101,1.9,"7,684",238,3.1,1.2
+E05000597,00BHGE,Hale End and Highams Park,Waltham Forest,"4,728",70,1.5,"5,451",127,2.3,0.8
+E05000598,00BHGF,Hatch Lane,Waltham Forest,"4,309",62,1.4,"5,092",91,1.8,0.3
+E05000599,00BHGG,High Street,Waltham Forest,"5,414",134,2.5,"7,221",294,4.1,1.6
+E05000600,00BHGH,Higham Hill,Waltham Forest,"4,554",91,2.0,"5,662",133,2.3,0.4
+E05000601,00BHGJ,Hoe Street,Waltham Forest,"5,150",108,2.1,"6,546",206,3.1,1.0
+E05000602,00BHGK,Larkswood,Waltham Forest,"4,890",42,0.9,"5,225",82,1.6,0.7
+E05000603,00BHGL,Lea Bridge,Waltham Forest,"5,326",109,2.0,"6,781",267,3.9,1.9
+E05000604,00BHGM,Leyton,Waltham Forest,"4,856",91,1.9,"6,030",160,2.7,0.8
+E05000605,00BHGN,Leytonstone,Waltham Forest,"5,304",104,2.0,"6,979",204,2.9,1.0
+E05000606,00BHGP,Markhouse,Waltham Forest,"4,671",96,2.1,"6,118",204,3.3,1.3
+E05000607,00BHGQ,Valley,Waltham Forest,"4,795",56,1.2,"5,214",94,1.8,0.6
+E05000608,00BHGR,William Morris,Waltham Forest,"5,183",96,1.9,"6,383",239,3.7,1.9
+E05000609,00BHGS,Wood Street,Waltham Forest,"4,904",108,2.2,"6,069",225,3.7,1.5
+E05000610,00BJFZ,Balham,Wandsworth,"7,629",342,4.5,"9,526",754,7.9,3.4
+E05000611,00BJGA,Bedford,Wandsworth,"7,728",253,3.3,"9,181",652,7.1,3.8
+E05000612,00BJGB,Earlsfield,Wandsworth,"7,223",272,3.8,"9,664",629,6.5,2.7
+E05000613,00BJGC,East Putney,Wandsworth,"7,800",241,3.1,"9,504",673,7.1,4.0
+E05000614,00BJGD,Fairfield,Wandsworth,"7,734",326,4.2,"10,008",767,7.7,3.4
+E05000615,00BJGE,Furzedown,Wandsworth,"6,388",257,4.0,"7,580",546,7.2,3.2
+E05000616,00BJGF,Graveney,Wandsworth,"6,932",191,2.8,"8,219",454,5.5,2.8
+E05000617,00BJGG,Latchmere,Wandsworth,"5,818",259,4.5,"8,003",557,7.0,2.5
+E05000618,00BJGH,Nightingale,Wandsworth,"7,514",258,3.4,"8,998",759,8.4,5.0
+E05000619,00BJGJ,Northcote,Wandsworth,"7,804",313,4.0,"9,519",837,8.8,4.8
+E05000620,00BJGK,Queenstown,Wandsworth,"6,610",298,4.5,"9,812",848,8.6,4.1
+E05000621,00BJGL,Roehampton,Wandsworth,"4,874",167,3.4,"7,010",338,4.8,1.4
+E05000622,00BJGM,St Mary's Park,Wandsworth,"6,753",336,5.0,"9,947",954,9.6,4.6
+E05000623,00BJGN,Shaftesbury,Wandsworth,"7,848",371,4.7,"9,483",871,9.2,4.5
+E05000624,00BJGP,Southfields,Wandsworth,"8,203",313,3.8,"9,888",720,7.3,3.5
+E05000625,00BJGQ,Thamesfield,Wandsworth,"7,556",344,4.6,"9,655",834,8.6,4.1
+E05000626,00BJGR,Tooting,Wandsworth,"6,811",219,3.2,"8,176",353,4.3,1.1
+E05000627,00BJGS,Wandsworth Common,Wandsworth,"6,957",292,4.2,"8,086",751,9.3,5.1
+E05000628,00BJGT,West Hill,Wandsworth,"7,094",196,2.8,"8,759",428,4.9,2.1
+E05000629,00BJGU,West Putney,Wandsworth,"5,880",263,4.5,"7,564",542,7.2,2.7
+E05000630,00BKGA,Abbey Road,Westminster,"4,543",102,2.2,"5,472",168,3.1,0.8
+E05000631,00BKGB,Bayswater,Westminster,"4,458",175,3.9,"6,141",389,6.3,2.4
+E05000632,00BKGC,Bryanston and Dorset Square,Westminster,"5,742",143,2.5,"6,519",314,4.8,2.3
+E05000633,00BKGD,Churchill,Westminster,"3,597",140,3.9,"4,258",232,5.4,1.6
+E05000634,00BKGE,Church Street,Westminster,"2,298",52,2.3,"3,845",155,4.0,1.8
+E05000635,00BKGF,Harrow Road,Westminster,"3,720",163,4.4,"5,640",372,6.6,2.2
+E05000636,00BKGG,Hyde Park,Westminster,"5,208",122,2.3,"6,296",290,4.6,2.3
+E05000637,00BKGH,Knightsbridge and Belgravia,Westminster,"4,221",88,2.1,"4,244",123,2.9,0.8
+E05000638,00BKGJ,Lancaster Gate,Westminster,"6,511",187,2.9,"7,676",461,6.0,3.1
+E05000639,00BKGK,Little Venice,Westminster,"4,255",126,3.0,"5,540",254,4.6,1.6
+E05000640,00BKGL,Maida Vale,Westminster,"5,114",162,3.2,"5,388",286,5.3,2.1
+E05000641,00BKGM,Marylebone High Street,Westminster,"5,148",128,2.5,"6,164",271,4.4,1.9
+E05000642,00BKGN,Queen's Park,Westminster,"3,483",155,4.5,"5,210",317,6.1,1.6
+E05000643,00BKGP,Regent's Park,Westminster,"4,884",98,2.0,"5,407",191,3.5,1.5
+E05000644,00BKGQ,St James's,Westminster,"4,599",92,2.0,"6,114",220,3.6,1.6
+E05000645,00BKGR,Tachbrook,Westminster,"4,646",130,2.8,"4,733",281,5.9,3.1
+E05000646,00BKGS,Vincent Square,Westminster,"4,110",98,2.4,"5,263",226,4.3,1.9
+E05000647,00BKGT,Warwick,Westminster,"4,729",134,2.8,"5,598",328,5.9,3.0
+E05000648,00BKGU,Westbourne,Westminster,"4,104",129,3.1,"5,284",270,5.1,2.0
+E05000649,00BKGW,West End,Westminster,"4,060",75,1.8,"6,387",217,3.4,1.6
